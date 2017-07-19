@@ -1,5 +1,4 @@
 # my-first-vue-project
-<<<<<<< HEAD
 
 > this is my first vue project
 
@@ -30,7 +29,3 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 new Vue({
 	components: {Header, Footer}
 })
-
-=======
-this is my first vue project to do exercise
->>>>>>> edc0aa64e2fde6a2879d8f712dd9628e78f6ad85
